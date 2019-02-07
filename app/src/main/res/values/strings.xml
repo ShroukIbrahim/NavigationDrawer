@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="textheading">Heading</string>
+    <string name="textdescription">Description</string>
+    <string name="navigation1">Home</string>
+    <string name="navigation2">My Profil</string>
+    <string name="navigation3">Consultants</string>
+    <string name="navigation4">Contractors</string>
+    <string name="navigation5">Suppliers</string>
+    <string name="navigation6">Notifications</string>
+    <string name="navigation11">Massage</string>
+    <string name="navigation7">about</string>
+    <string name="navigation8">Contact us</string>
+    <string name="navigation9">settings</string>
+    <string name="navigation10">Logout</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+</resources>
